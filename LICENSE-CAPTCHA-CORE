@@ -1,0 +1,46 @@
+CAPTCHA CORE - RESTRICTIVE LICENSE
+
+Copyright (c) Sapienza University of Rome / Original Authors
+
+================================================================================
+NOTICE: RESTRICTED USE
+================================================================================
+
+The following files are NOT covered by the MIT License and require explicit
+written permission for use:
+
+- lib/getter.php        (CAPTCHA point generation algorithm)
+- lib/verify.php        (CAPTCHA solution verification)
+- JavaScript CAPTCHA canvas code in app/survey/index.php
+
+================================================================================
+TERMS
+================================================================================
+
+1. VIEWING: You may view and study this code for educational purposes.
+
+2. NO REDISTRIBUTION: You may NOT redistribute, copy, or include this code
+   in your own projects without explicit written permission.
+
+3. NO COMMERCIAL USE: Commercial use of this code is strictly prohibited
+   without a separate licensing agreement.
+
+4. NO MODIFICATION: You may NOT create derivative works based on this code
+   without permission.
+
+5. PERMISSION REQUESTS: To request permission for use of this code, please
+   contact the repository owner via GitHub Issues or email.
+
+================================================================================
+DISCLAIMER
+================================================================================
+
+THIS CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHORS
+ARE NOT LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THIS CODE.
+
+================================================================================
+CONTACT
+================================================================================
+
+For licensing inquiries, please open an issue on the GitHub repository
+or contact: giuseppe.tallini25@gmail.com

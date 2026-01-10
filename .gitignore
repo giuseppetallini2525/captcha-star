@@ -1,0 +1,49 @@
+# Configuration (contains database credentials)
+config.php
+
+# Logos (too many files, available separately)
+logos/
+
+# Large data files
+data/embeddings/
+*.txt
+*.sql
+*.sql.gz
+
+# Keep only structure files in data
+!data/descriptions/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+._*
+
+# PHP
+vendor/
+composer.lock
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+cache/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Old/backup files
+*.bak
+*.old
+*~
