@@ -176,7 +176,7 @@ This project was developed as part of a **Bachelor's thesis in Computer Science*
 
 ## Author
 
-**Giuseppe** - Sapienza University of Rome
+**Giuseppe Tallini** - Sapienza University of Rome
 
 ---
 
